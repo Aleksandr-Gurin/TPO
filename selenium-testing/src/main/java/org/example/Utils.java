@@ -31,8 +31,8 @@ public class Utils {
 
     public static final String CORRECT_LOGIN = "god228";
     public static final String DISPLAY_NAME = "Fedr";
-    public static final String CORRECT_PASSWORD = "Pedofil2005";
-    public static final String WRONG_PASSWORD = "Pefdofil2022";
+    public static final String CORRECT_PASSWORD = "228";
+    public static final String WRONG_PASSWORD = "12345";
 
     public static List<WebDriver> getDrivers() {
         List<WebDriver> drivers = new ArrayList<>();
