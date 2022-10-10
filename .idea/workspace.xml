@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ed8809a-863d-4669-934d-f8aaaa3921ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/integration-testing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/ln.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/log2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/log3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/log5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/logFunc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/exception/FactorialException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/function/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/function/logarithm/Ln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/function/logarithm/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/function/logarithm/LogarithmicFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/function/system/SystemFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/function/trigonometry/Sin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/main/java/writer/WriterCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/sin.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/systemFunc.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/integrationTest/LogFunctionIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/integrationTest/LogIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/integrationTest/SystemFunctionIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/logarithm/LnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/logarithm/Log2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/logarithm/Log3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/logarithm/Log5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/logarithm/LogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/logarithm/LogarithmicFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/system/SystemFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/src/test/java/unitTest/function/trigonometry/SinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/exception/FactorialException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/function/Function.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/function/logarithm/Ln.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/function/logarithm/Log.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/function/logarithm/LogarithmicFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/function/system/SystemFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/function/trigonometry/Sin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/classes/writer/WriterCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/integrationTest/LogFunctionIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/integrationTest/LogIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/integrationTest/SystemFunctionIntegrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/logarithm/LnTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/logarithm/Log2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/logarithm/Log3Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/logarithm/Log5Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/logarithm/LogTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/logarithm/LogarithmicFunctionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/system/SystemFunctionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/target/test-classes/unitTest/function/trigonometry/SinTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/integration-testing/uml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/settings.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/main/java/org/example/model/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/main/java/org/example/model/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/main/java/org/example/model/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/main/java/org/example/model/ModelViewPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/main/java/org/example/model/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/AccountEditTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/AuthTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/CookieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/FileTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/HeaderTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/LoyaltyTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-testing/src/test/java/org/example/usecase/PaymentTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\AGurin\.m2\intership" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\Users\AGurin\.m2\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FvnBHRks1jqQFAHBAmhwv5Vp1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/AGurin/Documents/lessons/TPO/labs",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AGurin\Documents\lessons\TPO\labs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ed8809a-863d-4669-934d-f8aaaa3921ed" name="Changes" comment="" />
+      <created>1665381287430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665381287430</updated>
+      <workItem from="1665381289294" duration="788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
